@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap');
+font-family: 'Space Mono', monospace;
+
 <h1 align="center">Hi 👋, I'm Anna-Maria</h1>
 <h3 align="center">A passionate frontend developer from Munich</h3>
 
