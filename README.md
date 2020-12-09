@@ -1,11 +1,9 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Anna-Maria</h1>
 <h3 align="center">A passionate frontend developer from Munich</h3>
 
 - 🔭 I’m currently working on **Running Buddy**
 
-- 🤝 I’m looking for help with **Ruby Dog Shelter**
+- 🤝 I’m looking for help with my project **Ruby Dog Shelter**
 
 - 👨‍💻 All of my projects are available at [https://annamariajansen.github.io/profile/](https://annamariajansen.github.io/profile/)
 
