@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with my project **Ruby Dog Shelter**
 
-- 👨‍💻 All of my projects are available at [https://annamariajansen.github.io/profile/](https://annamariajansen.github.io/profile/)
+// - 👨‍💻 All of my projects are available at [https://annamariajansen.github.io/profile/](https://annamariajansen.github.io/profile/)
 
 - 📫 How to reach me **annamariajansen.dev@gmail.com**
 
