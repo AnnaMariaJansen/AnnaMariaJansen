@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-< a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/Wappalyzer/master/src/drivers/webextension/images/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/Wappalyzer/master/src/drivers/webextension/images/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a 
 href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://rubyonrails.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" alt="rubyonrails" width="40" height="40"/> </a> 
