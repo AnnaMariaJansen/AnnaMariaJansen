@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<a href="https://sass-lang.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/a0b2658ecf95d18653a034991f5901432cce64ef50387de5eead24ba46fbd689/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f736173732d6c616e672f736173732d6c616e672d69636f6e2e737667" alt="sass" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" style="max-width:100%;"> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/Wappalyzer/master/src/drivers/webextension/images/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a 
 href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> 
