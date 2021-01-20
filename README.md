@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/annamariajansen/" target="blank"><img align="center" <i class="fab fa-linkedin" style="color:#ffffff" alt="annamariajansen" height="30" width="40"></i> </a>
+<a href="https://www.linkedin.com/in/annamariajansen/" target="blank"><img align="center" class="fab fa-linkedin" style="color:#ffffff" alt="annamariajansen" height="30" width="40">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
