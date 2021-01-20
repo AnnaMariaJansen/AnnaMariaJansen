@@ -26,3 +26,12 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://rubyonrails.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> </a> </p>
+
+href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/AliasIO/Wappalyzer/master/src/drivers/webextension/images/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a 
+href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a 
+href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> <a 
+href="https://rubyonrails.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" alt="rubyonrails" width="40" height="40"/> </a> <a
+href="https://developer.mozilla.org/de/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" alt="html" width="40" height="40"/> </a> <a 
+href="https://developer.mozilla.org/de/docs/Web/JavaScript" target="_blank"> <img src="https://gitlab.svg.zone/omniait/developer-logos/raw/master/logos/front-end-web/javascript.svg" alt="javascript" width="40" height="40"/> </a> <a 
+href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a 
+href="https://www.ruby-lang.org/en/documentation/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a
