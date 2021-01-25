@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **annamariajansen.dev@gmail.com**
 
+- 💬 Ask me about anything you want
+
 - ⚡ Fun fact **my 🐶 name is Ruby**
 
 <h3 align="left">Connect with me:</h3>
