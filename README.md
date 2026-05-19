@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anna Jansen ✨🐾🦊</h1>
-<h3 align="center">A passionate fullstack developer from Munich</h3>
+<h3 align="center">Junior Cybersecurity Engineer | Web App Security | CEH | CompTIA Security+ PenTest+ Linux+
+</h3>
 
-Junior Cybersecurity Engineer | Web App Security | CEH | CompTIA Security+ PenTest+ Linux+
 - 📫 How to reach me **annajansen@proton.me**
 
 <h3 align="left">Connect with me:</h3>
