@@ -2,10 +2,11 @@
 <h3 align="center">Junior Cybersecurity Engineer | Web App Security | CEH | CompTIA Security+ PenTest+ Linux+
 </h3>
 
-- 📫 How to reach me **annajansen@proton.me**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <p **annajansen@proton.me**>
 <a href="https://www.linkedin.com/in/annamariajansen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="annamariajansen" height="30" width="40" style="color:white">
 </p>
 
