@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anna Jansen ✨🐾🦊</h1>
 <h3 align="center">A passionate fullstack developer from Munich</h3>
 
-- 🔭 I am currently looking for new code challenges. 
-
-<!-- - 👨‍💻 All of my projects are available at [https://annamariajansen.github.io/profile/](https://annamariajansen.github.io/profile/) -->
-
-- 📫 How to reach me **annamariajansen.dev@gmail.com**
-
-- 💬 Ask me about anything you want
-
-- ⚡ Fun fact **my 🐶 name is Ruby**
+Junior Cybersecurity Engineer | Web App Security | CEH | CompTIA Security+ PenTest+ Linux+
+- 📫 How to reach me **annajansen@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
